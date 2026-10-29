@@ -18,6 +18,14 @@ WhatsApp (51) 99832-8628 · victorconceicao682@gmail.com
 
 ## Projetos
 
+### Lutz Agenda: agenda online com lembretes no WhatsApp
+
+<a href="https://lutz-agenda.vercel.app"><img src="img/lutz-agenda.png" alt="Painel da Lutz Agenda" width="100%"></a>
+
+O cliente marca o horário sozinho pelo celular e recebe confirmação e lembretes no WhatsApp. O dono acompanha agenda por profissional, faturamento, faltas e clientes sumidos num painel, e chama de volta quem não aparece há mais de 30 dias. Demonstração aberta, sem login, com uma barbearia fictícia.
+
+[Testar agora](https://lutz-agenda.vercel.app) · [Código](https://github.com/VictorNlc/lutz-agenda)
+
 ### Sites de pedidos para restaurantes
 
 <a href="https://github.com/VictorNlc/sites-de-pedidos"><img src="img/sites-de-pedidos.png" alt="Site de pedidos da Alles Pizzaria" width="100%"></a>
